@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: maroon;
+  color: #ffffff;
+  padding: 2em 0;
+}
+
+main {
+  padding: 2em 0;
+}
+
+#tweet {
+  font-size: 1.5em;
+  padding: 1em;
+  border: none;
+  background-color: maroon;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+footer {
+  position: fixed;
+  bottom: 2em;
+  width: 100%;
+}
