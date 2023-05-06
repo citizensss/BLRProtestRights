@@ -130,14 +130,14 @@ const tweets = [
   "In Karnataka a strong regional leader like B S Yediyurappa was removed from the CM's post with no reason. Bommai replaced him but wasnt allowed to constitute a full fledged council of ministers for months #BJPFailsKarnataka #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
   "ಇಂದಿರಾ ಕ್ಯಾನ್ಟಿನ್ ಗೆ ದುಡ್ಡು ಕೊಡೋಕ್ಕೆ ಯಾಕೆ ಬೇಜಾರು ? ಬಡವರಿಗೆ ಕಷ್ಟ ಕೊಡುವ ಬಿಜೆಪಿಗೆ ಹೇಳಿ ದಿಕ್ಕಾರ https://bit.ly/3VDChXP #BJPFailsKarnataka #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElection #VoteWisely",
   "Hate speech by BJP Minister AshwathNarayan. When speaking at a party meet in Mandya, Minister AshwathNarayan called workers to ‘finish off’ opposition leader Siddaramaiah.(Feb 15th, 2023). #BJPFailsKarnataka  #VoteWisely #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections",
-
-
-
-
-  
-  
-  
-
+  "The proposed Hubli-Ankola railway line will destroy thousands of acres of pristine forests in the Western Ghats and devastate the biodiversity and hydrological regimes of the region. #BJPFailsKarnataka #VoteWisely #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
+  "ಪಠ್ಯ ಪುಸ್ತಕದ ಪರಿಷ್ಕರಣೆ ಹೆಸರಲ್ಲಿ ಭ್ರಾಹ್ಮಣ್ಯ ತಂದಿಟ್ಟ ಬಿಜೆಪಿ ಮನೆಗೆ ಹೋಗಿ https://bit.ly/3NLEzSP #BJPFailsKarnataka #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ", 
+  "More than 40% of the announced works of the crucial 'Multi Village Drinking Water Scheme' were not completed by the current KA state government. #BJPFailsKarnataka #VoteWisely #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
+  "To develop rural roads, the Karnataka government announced Namma Grama Namma Raste Program with an allocation of Rs.1026 crores to develop 950 Kms of roads. However only Rs.774 crores was spent. #BJPFailsKarnataka #VoteWisely #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
+  "Despite its ‘Classical Language’ status, Kannada has received far less support than other languages. #BJPFailsKarnataka #VoteWisely #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
+  "ರೈತರು ಬೆಳೆಯುವ ಬೆಲೆ ಕುಸಿದರು ಕ್ಯಾರೇ ಅನ್ನದ ಬಿಜೆಪಿ ಗೆ ಹೇಳಿ ಗುಡ್ ಬಯ್ https://bit.ly/3p7NXWx #BJPFailsKarnataka #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElection #VoteWisely", 
+  "Karnataka BJP govt's One district one product (ODOP) initiative has affected crop diversity in several districts and led to glut in prices .. #BJPFailsKarnataka #VoteWisely #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
+  "Instead of improving diets and consumption of iron rich foods, our communal government is bringing in cattle slaughter bans and religion/caste into mid day meal schemes. #VoteWisely #BJPFailsKarnataka #ಕರುನಾಡದ್ರೋಹಿಬಿಜೆಪಿ #KarnatakaAssemblyElections", 
   
 
 
