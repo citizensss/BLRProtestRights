@@ -15,11 +15,11 @@ const tweets = [
   "The right to protest is fundamental, guaranteed by our Constitution and Dr. Ambedkar. 📜 #StopSilencingBengaluru #ProtestWithFreedom",
   "Previous decisions have stifled this right to protest in Bengaluru. #StopSilencingBengaluru #ProtestWithFreedom", 
   "Bengaluru's right to protest was hollowed out by the 2021 Order. This must be reversed. #StopSilencingBengaluru #ProtestWithFreedom",
-  "ದಾರ್ಮಿಕ ಅಲ್ಪಸಂಖ್ಯಾತರಿಗೆ ಅನ್ಯಾಯವಾದಾಗ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕನ್ನು ಕೇಳಲು #StopSilencingBengaluru #ProtestWithFreedom"
+  "ದಾರ್ಮಿಕ ಅಲ್ಪಸಂಖ್ಯಾತರಿಗೆ ಅನ್ಯಾಯವಾದಾಗ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕನ್ನು ಕೇಳಲು #StopSilencingBengaluru #ProtestWithFreedom",
   "For over a year and a half, the right to protest has been restricted in Bengaluru. #StopSilencingBengaluru #ProtestWithFreedom",
-  "ಶೋಷಿತರಿಗೆ ಅನ್ಯಾಯವಾದಾಗ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕನ್ನು ಕೇಳಲು #StopSilencingBengaluru #ProtestWithFreedom"
+  "ಶೋಷಿತರಿಗೆ ಅನ್ಯಾಯವಾದಾಗ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕನ್ನು ಕೇಳಲು #StopSilencingBengaluru #ProtestWithFreedom",
   "Protests are now permitted only in Freedom Park. Let Freedom Park not be a jail for dissent! #StopSilencingBengaluru #ProtestWithFreedom",
-  "ಬೆಂಗಳೂರು ಪೊಲೀಸ್ ಆಯುಕ್ತರೆ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕು ಸಂವಿಧಾನದ ಹಕ್ಕು #StopSilencingBengaluru #ProtestWithFreedom"
+  "ಬೆಂಗಳೂರು ಪೊಲೀಸ್ ಆಯುಕ್ತರೆ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕು ಸಂವಿಧಾನದ ಹಕ್ಕು #StopSilencingBengaluru #ProtestWithFreedom",
   "Farmers, Dalit activists, Powrakarmikas, LGBTQI community members, and more have been denied their right to protest. #StopSilencingBengaluru #ProtestWithFreedom",
   "In Bengaluru, cases are filed against those exercising their fundamental right to protest. #StopSilencingBengaluru #ProtestWithFreedom", 
   "ದ್ವೇಷ ಬಿತ್ತುವ ಸಂದರ್ಭದಲ್ಲಿ ಪ್ರೀತಿಯಿಂದ ಪ್ರತಿಭಟಿಸುವ ಹಕ್ಕನ್ನು ಕೇಳಲು #StopSilencingBengaluru #ProtestWithFreedom",
