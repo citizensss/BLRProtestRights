@@ -44,7 +44,11 @@ const tweets = [
   "Democracy thrives when citizens can freely voice their concerns. 🏛️🗳️ #StopSilencingBengaluru #ProtestWithFreedom",
   "Farmers, workers, and marginalized communities rely on the power of protest for their voices to be heard. 🌾👷‍♂️👷‍♀️ #StopSilencingBengaluru #ProtestWithFreedom", 
   "Democracy thrives when citizens can freely voice their concerns. 🏛️🗳️ #StopSilencingBengaluru #ProtestWithFreedom", 
+  "The 2021 Order must be repealed for a truly democratic Bengaluru. 📜 #StopSilencingBengaluru #ProtestWithFreedom", 
+  "Our democracy is only as strong as our commitment to our rights. 🇮🇳 #StopSilencingBengaluru #ProtestWithFreedom", 
+  "The government must revoke the anti-people law barring all protests outside Freedom Park.  #Protestwithfreedom", 
+  
 
 
-
+  
 ]
